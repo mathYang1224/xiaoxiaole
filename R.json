@@ -1,0 +1,35 @@
+{
+	"images" : [
+		{"name" : "bg1" , "url" : "R/images/bg1.png"},
+		{"name" : "bg2" , "url" : "R/images/bg2.png"},
+		{"name" : "i0" , "url" : "R/images/i0.png"},
+		{"name" : "i1" , "url" : "R/images/i1.png"},
+		{"name" : "i2" , "url" : "R/images/i2.png"},
+		{"name" : "i3" , "url" : "R/images/i3.png"},
+		{"name" : "i4" , "url" : "R/images/i4.png"},
+		{"name" : "i5" , "url" : "R/images/i5.png"},
+		{"name" : "i6" , "url" : "R/images/i6.png"},
+		{"name" : "i7" , "url" : "R/images/i7.png"},
+		{"name" : "i8" , "url" : "R/images/i8.png"},
+		{"name" : "i9" , "url" : "R/images/i9.png"},
+		{"name" : "i10" , "url" : "R/images/i10.png"},
+		{"name" : "i11" , "url" : "R/images/i11.png"},
+		{"name" : "i12" , "url" : "R/images/i12.png"},
+		{"name" : "i13" , "url" : "R/images/i13.png"},
+		{"name" : "i14" , "url" : "R/images/i14.png"},
+		{"name" : "bomb" , "url" : "R/images/bomb.png"},
+		{"name" : "logo" , "url" : "R/images/logo.png"}
+	],
+	"music" : [
+		{"name" : "bgm" , "url" : "R/music/sound.GameSceneBGM.aa526116e65a66e72772e291adf47b6f.mp3"},
+		{"name" : "e1" , "url" : "R/music/e1.mp3"},
+		{"name" : "e2" , "url" : "R/music/e2.mp3"},
+		{"name" : "e3" , "url" : "R/music/e3.mp3"},
+		{"name" : "e4" , "url" : "R/music/e4.mp3"},
+		{"name" : "e5" , "url" : "R/music/e5.mp3"},
+		{"name" : "e6" , "url" : "R/music/e6.mp3"},
+		{"name" : "e7" , "url" : "R/music/e7.mp3"},
+		{"name" : "e8" , "url" : "R/music/e8.mp3"},
+		{"name" : "tip" , "url" : "R/music/tip.mp3"}
+	]
+}
